@@ -1,0 +1,13 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/eleventy-encore/build/runtime.js",
+        "/eleventy-encore/build/app.js"
+      ],
+      "css": [
+        "/eleventy-encore/build/app.css"
+      ]
+    }
+  }
+}
